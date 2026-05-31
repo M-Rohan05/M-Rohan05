@@ -15,7 +15,7 @@ Final-year student of Artificial Intelligence and Data Science, graduating in 20
 
 🔍 Actively seeking Data Analyst Intern or Fresher roles where I can work on real-world data-driven problems and contribute to meaningful business decisions.
 
-📚 Currently exploring: AI · Machine Learning · NLP · Dashboard Storytelling.
+📚 Currently exploring: · AI · Machine Learning · NLP · Dashboard Storytelling.
 
 ---
 
