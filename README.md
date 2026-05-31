@@ -14,7 +14,9 @@ I am a Data Analyst with a strong foundation in Python, SQL, data visualization,
 Final-year student of Artificial Intelligence and Data Science, graduating in 2026, I enjoy building end-to-end data projects — from data cleaning and EDA to dashboards and actionable reporting.
 
 🔍 Actively seeking Data Analyst Intern or Fresher roles where I can work on real-world data-driven problems and contribute to meaningful business decisions.
-📚 Currently exploring: AI · Machine Learning · NLP · Dashboard Storytelling
+
+📚 Currently exploring: AI · Machine Learning · NLP · Dashboard Storytelling.
+
 ---
 
 ## 🛠️ Tech Stack
