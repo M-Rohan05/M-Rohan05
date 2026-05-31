@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I am an aspiring Data Analyst with a strong foundation in Python, SQL, data visualization, and exploratory data analysis, along with hands-on experience in business intelligence and insight generation.
+I am a Data Analyst with a strong foundation in Python, SQL, data visualization, and exploratory data analysis, along with hands-on experience in business intelligence and insight generation.
 
 Currently pursuing my degree in Artificial Intelligence and Data Science, I enjoy building end-to-end data projects — from data cleaning and EDA to dashboards and actionable reporting.
 
